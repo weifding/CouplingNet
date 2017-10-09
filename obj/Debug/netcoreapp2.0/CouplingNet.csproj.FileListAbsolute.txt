@@ -1,0 +1,10 @@
+/Users/dingweifeng/Desktop/Working/dotnet/CouplingNet/bin/Debug/netcoreapp2.0/CouplingNet.deps.json
+/Users/dingweifeng/Desktop/Working/dotnet/CouplingNet/bin/Debug/netcoreapp2.0/CouplingNet.runtimeconfig.json
+/Users/dingweifeng/Desktop/Working/dotnet/CouplingNet/bin/Debug/netcoreapp2.0/CouplingNet.runtimeconfig.dev.json
+/Users/dingweifeng/Desktop/Working/dotnet/CouplingNet/bin/Debug/netcoreapp2.0/CouplingNet.dll
+/Users/dingweifeng/Desktop/Working/dotnet/CouplingNet/bin/Debug/netcoreapp2.0/CouplingNet.pdb
+/Users/dingweifeng/Desktop/Working/dotnet/CouplingNet/obj/Debug/netcoreapp2.0/CouplingNet.csproj.CoreCompileInputs.cache
+/Users/dingweifeng/Desktop/Working/dotnet/CouplingNet/obj/Debug/netcoreapp2.0/CouplingNet.AssemblyInfoInputs.cache
+/Users/dingweifeng/Desktop/Working/dotnet/CouplingNet/obj/Debug/netcoreapp2.0/CouplingNet.AssemblyInfo.cs
+/Users/dingweifeng/Desktop/Working/dotnet/CouplingNet/obj/Debug/netcoreapp2.0/CouplingNet.dll
+/Users/dingweifeng/Desktop/Working/dotnet/CouplingNet/obj/Debug/netcoreapp2.0/CouplingNet.pdb
